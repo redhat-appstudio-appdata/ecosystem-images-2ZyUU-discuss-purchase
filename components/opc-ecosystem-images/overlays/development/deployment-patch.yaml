@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/tekton-ecosystem-tenant/ecosystem-images/opc-ecosystem-images@sha256:97ba3f5cb6d20609de1133ea6e176884f103222b59fa8155190d3b95e7f5f43a
+      - image: quay.io/redhat-user-workloads/tekton-ecosystem-tenant/ecosystem-images/opc-ecosystem-images@sha256:0e1d2de24d96e5cd6e63e5d37af13129138d55e5ed69e79b7576b8064897fe68
         name: container-image
         resources: {}
 status: {}
