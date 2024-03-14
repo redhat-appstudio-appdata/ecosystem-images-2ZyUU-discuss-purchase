@@ -23,7 +23,7 @@ spec:
         app.kubernetes.io/instance: opc-ecosystem-images
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/tekton-ecosystem-tenant/ecosystem-images/opc-ecosystem-images@sha256:609a40853c2541174425186a24cffa4f0cb9bcd768f1c1435f18b48b7f8cc72d
+      - image: quay.io/redhat-user-workloads/tekton-ecosystem-tenant/ecosystem-images/opc-ecosystem-images@sha256:6e499fa7c480176866bfdad8ad434a31397ee3ed4f19aa1ff5637b8e23767d65
         imagePullPolicy: Always
         name: container-image
         ports:
